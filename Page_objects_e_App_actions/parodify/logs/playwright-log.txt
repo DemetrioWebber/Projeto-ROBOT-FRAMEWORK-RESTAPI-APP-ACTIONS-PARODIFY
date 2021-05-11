@@ -1,0 +1,51 @@
+{"level":30,"time":"2021-03-08T18:35:12.837Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Listening on 54402"}
+{"level":30,"time":"2021-03-08T18:35:13.266Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:13.345Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-08T18:35:13.345Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:16.807Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Retrieved dom property for element label[for=user_email] containing Email"}
+{"level":30,"time":"2021-03-08T18:35:18.116Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:18.116Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:18.116Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:18.138Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:18.138Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:18.138Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:18.174Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:18.250Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-08T18:35:18.250Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:21.969Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-08T18:35:22.327Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:22.327Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:22.327Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:22.345Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:22.345Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:22.345Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:22.378Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:22.464Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-08T18:35:22.465Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:25.982Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-08T18:35:26.364Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:26.364Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:26.364Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:26.384Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:26.384Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:26.384Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:26.411Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:26.493Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-08T18:35:26.493Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:30.438Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-08T18:35:30.817Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:30.817Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:30.817Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:30.833Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:30.833Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:30.833Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:30.856Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:30.942Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-08T18:35:30.942Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:34.827Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-03-08T18:35:35.182Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:35.182Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:35.182Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
+{"level":30,"time":"2021-03-08T18:35:35.200Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active context"}
+{"level":30,"time":"2021-03-08T18:35:35.200Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-08T18:35:35.200Z","pid":16212,"hostname":"CTDDELLHN454W2","msg":"Changed active page"}
